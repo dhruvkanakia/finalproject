@@ -6,3 +6,8 @@
 
 
 ### BY AKILAN RAJENDIRAN & DHRUV KANAKIA
+
+### docker pull akil06/finalproject:image1.2
+### docker pull akil06/finalproject:image2
+### docker run akil06/finalproject:image1.2
+### docker run akil06/finalproject:image2
